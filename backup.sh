@@ -1,2 +1,2 @@
-Hi, have a nice day
+echo "Hi, have a nice day"
 #comment
